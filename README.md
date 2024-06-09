@@ -64,6 +64,6 @@ The architecture involves several components to capture, process, and analyze em
   "sg_event_id": "****",
   "sg_machine_open": false,
   "sg_message_id": "******",
-  "timestamp": 1717889910,
-  "useragent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)"
+  "timestamp": ******,
+  "useragent": "*****"
 }
