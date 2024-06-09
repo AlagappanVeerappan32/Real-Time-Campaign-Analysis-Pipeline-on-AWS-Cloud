@@ -53,6 +53,12 @@ The architecture involves several components to capture, process, and analyze em
 4. **Kinesis Firehose**: Configure Kinesis Firehose to deliver data to Amazon S3.
 5. **Amazon S3**: Set up an S3 bucket to store the processed data.
 
+
+## Architecture 
+Here's an overview of the system architecture:
+
+![System Architecture](ARCH.png)
+
 ## Example Event
 
 ```json
@@ -64,6 +70,6 @@ The architecture involves several components to capture, process, and analyze em
   "sg_event_id": "****",
   "sg_machine_open": false,
   "sg_message_id": "******",
-  "timestamp": ******,
+  "timestamp": ****** ,
   "useragent": "*****"
 }
